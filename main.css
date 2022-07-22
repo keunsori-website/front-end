@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    background-image:url("mainscreen.png");
+}
+
+div.container
+{
+    overflow: auto;
+
+}
