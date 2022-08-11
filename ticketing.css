@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    background-image:url("background.png");
+  }
+  
+  div.container
+  {
+    overflow: 90%;
+  
+  }
+  
+  li{
+    float: left;
+    color:white;
+  
+  }
+  
+  h1{
+    color: white;
+    font-family: 'Plaster', cursive;
+    text-align: center;
+  }
+  ul{
+  
+    list-style-type: none;
+    margin-left: 37%;
+    padding: 0;
+    background-color: rgba(0,0,0,0);
+  
+  
+  }
+  
+  li a {
+  
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 30px;
+    text-decoration: none;
+  }
+   
+  #ticket{
+    position: absolute;
+    top: 16%;
+    left: 34%;
+    right: 34%;
+    bottom: 8%;
+  }
+
+  #ticket img{
+    margin:auto;
+  }
